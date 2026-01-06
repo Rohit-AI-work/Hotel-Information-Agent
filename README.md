@@ -14,6 +14,7 @@ Key Features
 	•	Avoids guessing and respects defined knowledge boundaries
 
 Architecture and Technologies
+	•	Microsoft Azure AI Foundry 
 	•	Model: gpt-4-mini
 	•	Agent Instructions:
 You are a helpful hotel concierge attending to guest inquiries and concerns. Be polite, welcoming, and professional, and provide accurate information based on approved hotel knowledge.
@@ -24,7 +25,8 @@ The agent was tested using realistic guest scenarios, including:
 	•	Checking restaurant opening and closing hours
 	•	Confirming check-out times
 	•	Handling unclear or out-of-scope questions by politely deferring to hotel staff
-
+	•	Link to the Demo < 
+	
 Testing was performed using the Azure AI Foundry Playground, ensuring that responses:
 	•	Matched the uploaded hotel documentation
 	•	Followed the defined concierge tone
